@@ -1,2 +1,2 @@
 I am new User to Git
-I like this Tool
+I like this Tool. This is awesome.
